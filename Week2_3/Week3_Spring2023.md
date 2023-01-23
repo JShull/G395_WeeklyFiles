@@ -48,6 +48,9 @@
 * Unity Editor Adjustments: Colors and Windows!
   * Why? Don't want to forget you're in play mode!
   * ![Edit-->Preferences](../images/Week3_GT_U_Pref.PNG)
+* Modifying GameObjects and Editor secret tricks - Select all GameObjects and distribute evenly or randomly!
+  * L(0,4)
+  * R(0,5)
 
 ### Unity Packages
 
