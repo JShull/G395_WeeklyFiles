@@ -45,12 +45,18 @@
 * We are going to now play around with the 1st and 3rd person starter kits by Unity
 * [Unity Hot Key Shortcuts](../docs/Unity_shortcuts.pdf) this PDF was created by Oxmond Technology and the original can be found at their site [here](https://oxmond.com/unity-shortcuts/)
 * You can also make/edit your own: Windows: Edit-->ShortCuts on Windows, Mac: Unity-->ShortCuts
+//End of Monday class
 * Unity Editor Adjustments: Colors and Windows!
   * Why? Don't want to forget you're in play mode!
   * ![Edit-->Preferences](../images/Week3_GT_U_Pref.PNG)
 * Modifying GameObjects and Editor secret tricks - Select all GameObjects and distribute evenly or randomly!
   * L(0,4)
   * R(0,5)
+//Wednesday Class added items
+* Unity Prefabs
+* Unity Package Manager
+  * Preview packages
+* Unity Recorder
 
 ### Unity Packages
 
