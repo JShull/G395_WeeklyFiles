@@ -20,7 +20,7 @@ General Unity Editor 101 - please see the [Week2-3 Folder](./Week2_3/Week3_Sprin
 
 ## Week 3-4
 
-Unity Package Manager & Unity Input System. We will be also talking about GitHub Projects and Kanban boards.
+Unity [Package Manager & Unity Input System](./Week4/Week4_InputSystem.md). We will be also talking about [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) and [Kanban boards](https://en.wikipedia.org/wiki/Kanban_board).
 
 * Video In Class 1-30-2023 Coming soon!
 * Video In Class 2-1-2023 Coming soon!
