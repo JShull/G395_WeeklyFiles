@@ -20,7 +20,15 @@ General Unity Editor 101 - please see the [Week2-3 Folder](./Week2_3/Week3_Sprin
 
 ## Week 3-4
 
-Unity [Package Manager & Unity Input System](./Week4/Week4_InputSystem.md). We will be also talking about [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) and [Kanban boards](https://en.wikipedia.org/wiki/Kanban_board).
+Unity [Package Manager & Unity Input System](./Week4/Week4_InputSystem.md) and we spent 30 minutes going through an example simple project. 
 
-* Video In Class 1-30-2023 Coming soon!
-* Video In Class 2-1-2023 Coming soon!
+* Working on a recap video of the entire week covering the content I showed on 2-1-2023
+* I also am working on sharing that Unity project
+
+## Week 5
+
+Semester agreements/contracts and [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)/[Kanban boards](https://en.wikipedia.org/wiki/Kanban_board).
+
+* In class time to work through GitHub projects and issue tracking
+* In class time to identify and write out first high stake assignment
+* Continue exploring content capture applications and Custom Unity Packages for Player Controller and Raycasting
