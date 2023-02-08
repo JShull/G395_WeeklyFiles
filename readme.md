@@ -31,4 +31,5 @@ Semester agreements/contracts and [GitHub Projects](https://docs.github.com/en/i
 
 * In class time to work through GitHub projects and issue tracking
 * In class time to identify and write out first high stake assignment
-* Continue exploring content capture applications and Custom Unity Packages for Player Controller and Raycasting
+* Documentation on working with [Scriptable Objects](./Week5/Spring2023_Kits_ScriptableObjects.md)
+* Continue exploring content and [Custom Unity Packages](https://github.com/jshull/FP_Control)
