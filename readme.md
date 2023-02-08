@@ -33,3 +33,4 @@ Semester agreements/contracts and [GitHub Projects](https://docs.github.com/en/i
 * In class time to identify and write out first high stake assignment
 * Documentation on working with [Scriptable Objects](./Week5/Spring2023_Kits_ScriptableObjects.md)
 * Continue exploring content and [Custom Unity Packages](https://github.com/jshull/FP_Control)
+  * [Unity Custom Packages Documentation](https://docs.unity3d.com/Manual/CustomPackages.html)
