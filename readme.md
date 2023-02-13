@@ -29,8 +29,20 @@ Unity [Package Manager & Unity Input System](./Week4/Week4_InputSystem.md) and w
 
 Semester agreements/contracts and [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)/[Kanban boards](https://en.wikipedia.org/wiki/Kanban_board).
 
-* In class time to work through GitHub projects and issue tracking
-* In class time to identify and write out first high stake assignment
 * Documentation on working with [Scriptable Objects](./Week5/Spring2023_Kits_ScriptableObjects.md)
 * Continue exploring content and [Custom Unity Packages](https://github.com/jshull/FP_Control)
   * [Unity Custom Packages Documentation](https://docs.unity3d.com/Manual/CustomPackages.html)
+
+## Week 6
+
+Continuation of last week with Scriptable Objects, some simple collisions/trigger scripting
+
+* Monday:
+  * In class time to work through GitHub projects and issue tracking
+  * In class time to identify and write out first high stake assignment
+* Wednesday:
+  * [Unity UI old](https://learn.unity.com/tutorial/ui-components#5c7f8528edbc2a002053b4d1)
+  * [Unity UI Toolkit/Builder new](https://learn.unity.com/tutorial/ui-toolkit-first-steps)
+* What I owe you all:
+  * Updated Video encompassing Prefabs, Scriptable Objects, Character Controllers, and simple Pick-ups/drops
+  * Feedback for those who submit this week
