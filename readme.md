@@ -40,9 +40,9 @@ Continuation of last week with Scriptable Objects, some simple collisions/trigge
 * Monday:
   * In class time to work through GitHub projects and issue tracking
   * In class time to identify and write out first high stake assignment
-* Wednesday:
-  * [Unity UI old](https://learn.unity.com/tutorial/ui-components#5c7f8528edbc2a002053b4d1)
-  * [Unity UI Toolkit/Builder new](https://learn.unity.com/tutorial/ui-toolkit-first-steps)
+* Wednesday: (REMOTE)
+  * Briefly talk about [Unity UI old](https://learn.unity.com/tutorial/ui-components#5c7f8528edbc2a002053b4d1)
+  * Most of our time: [Unity UI Toolkit/Builder new](https://learn.unity.com/tutorial/ui-toolkit-first-steps)
 * What I owe you all:
   * Updated Video encompassing Prefabs, Scriptable Objects, Character Controllers, and simple Pick-ups/drops
   * Feedback for those who submit this week
