@@ -46,3 +46,35 @@ Continuation of last week with Scriptable Objects, some simple collisions/trigge
 * What I owe you all:
   * Updated Video encompassing Prefabs, Scriptable Objects, Character Controllers, and simple Pick-ups/drops
   * Feedback for those who submit this week
+
+## Week 7
+
+Little bit of UI work from last week & scene management, but mainly visual scripting and general scripting.
+
+* John Notes:
+  * UnityGameClass/Unity/B2G has scene loading/unloading and loading screen
+  * GameKit/Unity/TwoDLite/ intro visual scripting - reimport 1.8 package if there are glitches on update from 2022.1 to 2022.2
+  * Chunk of the class is going to be consumed on loading packages
+* Monday:
+  * Monday Scene Management and UnityEngine.SceneManager;
+  * Introduction to Visual Scripting
+    * [Avashly Repositories](https://github.com/avashly/unity-visualscripting-samples)
+      * [3D Example: Release section SuperNova Unity Asset package](https://github.com/avashly/unity-visualscripting-samples/releases/download/Space_v1.0/UnityVisualScripting_SuperNova_Mar2021.unitypackage)
+      * [2D Example: Release section Pixel Runner Asset package](https://github.com/avashly/unity-visualscripting-samples/releases/download/Runner_v1.0/UnityVisualScripting_EndlessRunner_Mar2021.unitypackage)
+* Wednesday:
+  * More Visual Scripting with previous examples
+    * UI
+    * Input
+    * Events
+    * ScriptableObjects
+* What I owe still owe you all:
+  * Entire Cleaned up Repository consisting of everything from Week 1-Week7
+    * Character Controller
+    * New UI Start Menu
+      * Scene Management
+    * Simple Visual Scripting examples
+    * Simple C# Scripting examples
+    * Scriptable object loader
+    * Use of Prefabs/Variants
+    * Clearing the Quad Game
+  * Video tutorial: currently at 2 hours (editing it down)
