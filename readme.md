@@ -49,7 +49,7 @@ Continuation of last week with Scriptable Objects, some simple collisions/trigge
 
 ## Week 7
 
-Little bit of UI work from last week & scene management, but mainly visual scripting and general scripting.
+Little bit of UI work from last week - inline style adjustments got me last week - & scene management, but mainly visual scripting and general scripting.
 
 * John Notes:
   * UnityGameClass/Unity/B2G has scene loading/unloading and loading screen
@@ -61,8 +61,9 @@ Little bit of UI work from last week & scene management, but mainly visual scrip
     * [Avashly Repositories](https://github.com/avashly/unity-visualscripting-samples)
       * [3D Example: Release section SuperNova Unity Asset package](https://github.com/avashly/unity-visualscripting-samples/releases/download/Space_v1.0/UnityVisualScripting_SuperNova_Mar2021.unitypackage)
       * [2D Example: Release section Pixel Runner Asset package](https://github.com/avashly/unity-visualscripting-samples/releases/download/Runner_v1.0/UnityVisualScripting_EndlessRunner_Mar2021.unitypackage)
+    * [Unity Clive the Cat](https://assetstore.unity.com/packages/templates/tutorials/unity-s-visual-scripting-tutorial-192201)
 * Wednesday:
-  * More Visual Scripting with previous examples
+  * More Visual Scripting with previous examples and Clive the Cat
     * UI
     * Input
     * Events
@@ -72,6 +73,7 @@ Little bit of UI work from last week & scene management, but mainly visual scrip
     * Character Controller
     * New UI Start Menu
       * Scene Management
+        * Finish and upload FP_SceneManager.git Unity Package
     * Simple Visual Scripting examples
     * Simple C# Scripting examples
     * Scriptable object loader
