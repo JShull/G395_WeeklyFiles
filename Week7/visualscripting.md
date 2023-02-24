@@ -4,6 +4,16 @@ Visual scripting in Unity is really powerful - but it still has a lot of overhea
 
 * Note: There are some areas of work that Visual Scripting just takes *A LOT* longer to utilize in which one or two lines of written C# code is ideal from a time perspective. I believe a hybrid approach to these systems is an ideal starting point for anyone new to Unity and new to programming. If you're experienced in programming you might find the visual scripting enjoyable but rather time consuming to build out full systems.
 
+## Week 7 Exit Ticket Surprise!
+
+During the Week 7 exit ticket I ask you about: 
+  * 'what is a graph?'
+    *  Visual scripting asset that contains a visual representation of logic in an application
+  * 'what is a subgraph?'
+    *  A nested Script Graph!
+  * How many (number) machines/graph types does Unity use?
+    * 2! 'Script Graphs' and 'State Graphs'  
+
 ## Setup
 
 Get out your Unity project and go to the Package Manager and confirm or install the Visual Scripting Library - as of 2021 Unity now provides the Visual Scripting Library in all of it's 'default packages'
