@@ -80,3 +80,16 @@ Little bit of UI work from last week - inline style adjustments got me last week
     * Use of Prefabs/Variants
     * Clearing the Quad Game
   * Video tutorial: currently at 2 hours (editing it down)
+
+## Week 8
+
+Raycasts and Vectors
+
+* Monday:
+  * [FP_Ray Package work](https://github.com/JShull/FP_Ray)
+  * Linear Algebra comes back to haunt you!
+  * Vectors / Raycasts
+
+* Wednesday:
+  * Q&A with [François Roughol](https://www.francois.games/) who is currently at [Sharkmob](https://www.sharkmob.com/)
+  * François has been a level designer for the past 18 years, progressively turning into a world designer. He is currently a world director at a new Tencent studio in Sweden - Sharkmob and he's worked on titles such as [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia), [Assassin’s Creed 2](https://en.wikipedia.org/wiki/Assassin%27s_Creed_II), [Bioshock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite) and [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima)!
