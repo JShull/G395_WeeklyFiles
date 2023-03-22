@@ -94,7 +94,13 @@ Raycasts and Vectors
   * Q&A with [François Roughol](https://www.francois.games/) who is currently at [Sharkmob](https://www.sharkmob.com/)
   * François has been a level designer for the past 18 years, progressively turning into a world designer. He is currently a world director at a new Tencent studio in Sweden - Sharkmob and he's worked on titles such as [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia), [Assassin’s Creed 2](https://en.wikipedia.org/wiki/Assassin%27s_Creed_II), [Bioshock Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite) and [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima)!
 
-## Week 10
+## Week 9
 
 * Monday: No Class
 * Wednesday: John's Chaos Project
+
+## Week 10
+
+* [State Machines](https://en.wikipedia.org/wiki/Finite-state_machine)
+  * Visual Studio Code [Plugin for Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) and Flow Charts
+* [Probuilder](https://docs.unity3d.com/Packages/com.unity.probuilder@4.2/manual/overview.html)
