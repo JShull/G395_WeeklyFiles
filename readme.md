@@ -101,6 +101,14 @@ Raycasts and Vectors
 
 ## Week 10
 
-* [State Machines](https://en.wikipedia.org/wiki/Finite-state_machine)
-  * Visual Studio Code [Plugin for Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) and Flow Charts
-* [Probuilder](https://docs.unity3d.com/Packages/com.unity.probuilder@4.2/manual/overview.html)
+Monday
+
+* Chaos Project Enemy AI Dumb Logic
+  * [State Machines](https://en.wikipedia.org/wiki/Finite-state_machine)
+    * Visual Studio Code [Plugin for Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) to create flow charts
+Wednesday
+* Use class time to round-table project progress.
+* [Pro-Builder](https://docs.unity3d.com/Packages/com.unity.probuilder@4.2/manual/overview.html)
+  * [Customizing Pro-Builder](https://docs.unity3d.com/Packages/com.unity.probuilder@4.2/manual/customizing.html#toolbar)
+* [Unity Quick Snapping Keys](https://docs.unity3d.com/Manual/PositioningGameObjects.html)
+  * ![Probuilder Colors](./images/probuilder_00.PNG)
