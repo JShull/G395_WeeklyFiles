@@ -112,3 +112,18 @@ Wednesday
   * [Customizing Pro-Builder](https://docs.unity3d.com/Packages/com.unity.probuilder@4.2/manual/customizing.html#toolbar)
 * [Unity Quick Snapping Keys](https://docs.unity3d.com/Manual/PositioningGameObjects.html)
   * ![Probuilder Colors](./images/probuilder_00.PNG)
+
+## Week 11
+
+Monday
+
+* [Polybrush](https://unity.com/features/polybrush) & Probuilder touch-ups
+* Wednesday: No Class, use class time towards project modification(s)
+
+## Week 12
+
+Monday
+
+* 2D Animation Setup/Rigging
+* Quick Rigging [YouTube Rigging Video](https://www.youtube.com/watch?v=WgATop-S0LM&list=PLEPcs9R3SIZ5URg0-dCnOn5xsJYg5SkBB&index=2)
+* Quick Animation [YouTube Animation Video](https://www.youtube.com/watch?v=tysuunwI3oM)
