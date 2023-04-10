@@ -140,8 +140,7 @@ Monday
   * [Prefabs](https://docs.unity3d.com/2022.2/Documentation/Manual/Prefabs.html)
   * State Machine Work on Attacking States (Time depending)
   * [VFX](https://docs.unity3d.com/Packages/com.unity.visualeffectgraph@14.0/manual/GettingStarted.html) (Time depending)
-  * Custom Code for Blocking and/or raycast data with shadow data (time depending)
-    * Utilize and identify a minimum raycast hit and "block" the rest
+  * 2D Swinging Light (Time depending)
   * UI Emote work (Time depending)
 
 Wednesday
