@@ -126,4 +126,23 @@ Monday
 
 * 2D Animation Setup/Rigging
 * Quick Rigging [YouTube Rigging Video](https://www.youtube.com/watch?v=WgATop-S0LM&list=PLEPcs9R3SIZ5URg0-dCnOn5xsJYg5SkBB&index=2)
-* Quick Animation [YouTube Animation Video](https://www.youtube.com/watch?v=tysuunwI3oM)
+
+Wednesday
+
+* 2D Animation via Key-framing and IK Rig [YouTube Animation Video](https://www.youtube.com/watch?v=tysuunwI3oM)
+
+## Week 13
+
+Monday
+
+* Going through Class GitHub Issues
+  * [Splines](https://docs.unity3d.com/Packages/com.unity.splines@2.2/manual/getting-started-with-splines.html)
+  * [Prefabs](https://docs.unity3d.com/2022.2/Documentation/Manual/Prefabs.html)
+  * State Machine Work on Attacking States (Time depending)
+  * [VFX](https://docs.unity3d.com/Packages/com.unity.visualeffectgraph@14.0/manual/GettingStarted.html) (Time depending)
+  * 2D Swinging Light (Time depending)
+  * UI Emote work (Time depending)
+
+Wednesday
+
+* We either continue from Monday or time depending I might go into a sort of Live Coding with ChatGPT and let's see if we can program a custom [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)/[UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) network solution for a workshop I'm preparing for in July.
