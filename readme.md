@@ -138,9 +138,11 @@ Monday
 * Going through Class GitHub Issues
   * [Splines](https://docs.unity3d.com/Packages/com.unity.splines@2.2/manual/getting-started-with-splines.html)
   * [Prefabs](https://docs.unity3d.com/2022.2/Documentation/Manual/Prefabs.html)
+  * State Machine Work on Attacking States (Time depending)
   * [VFX](https://docs.unity3d.com/Packages/com.unity.visualeffectgraph@14.0/manual/GettingStarted.html) (Time depending)
   * Custom Code for Blocking and/or raycast data with shadow data (time depending)
     * Utilize and identify a minimum raycast hit and "block" the rest
+  * UI Emote work (Time depending)
 
 Wednesday
 
